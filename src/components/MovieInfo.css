@@ -49,6 +49,7 @@
 .disc {
 	font-weight: 100;
 	line-height: 23px;
+	font-size: calc(8px + 0.5vw);
 }
 .video-responsive iframe {
     left: 0;
